@@ -1,0 +1,6 @@
+[submodule "digimon-api"]
+	path = digimon-api
+	url = https://github.com/Pentodo/digimon-api.git
+[submodule "digimon-frontend"]
+	path = digimon-frontend
+	url = https://github.com/Pentodo/digimon-frontend.git
