@@ -6,7 +6,7 @@ Desafio/teste desenvolvido com Nest.js e Angular.
 
 -   [x] Listar Digimons;
     -   Possuir um filtro por nome e por digievolução.
--   [x] Escolher e listar Digimons por meio da sua digievolução.
+-   [x] Escolher Digimons por meio da sua digievolução.
 
 ### Condições:
 
